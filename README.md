@@ -4,3 +4,4 @@ A simple Two Factor Authenticator using the "pyotp" to generate OTP codes to acc
 
 Requirements:
 pip install pyotp
+pip install qrcode
